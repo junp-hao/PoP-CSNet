@@ -27,10 +27,10 @@ The test sets are in `./test`.
 
 ## Results
 
-![bird_004.png](./images/bird_0.04.png)
+![bird](./images/bird_0.04.png)
 
-![barbara_025.png](./images/barbara_0.25.png)
+![barbara](./images/barbara_0.25.png)
 
 ![result](./images/test43_0.1.png)
 
-![room_001.png](./images/room_0.01.png)
+![room](./images/room_0.01.png)
