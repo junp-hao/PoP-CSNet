@@ -29,8 +29,6 @@ The test sets are in `./test`.
 
 ![bird_004.png](./images/bird_0.04.png)
 
-![]()
-
 ![barbara_025.png](./images/barbara_0.25.png)
 
 ![result](./images/test43_0.1.png)
