@@ -13,7 +13,7 @@ parser = argparse.ArgumentParser(description="PyTorch")
 parser.add_argument("--cuda", default="True", action="store_true", help="use cuda?")
 parser.add_argument("--model", default="./results/CS_rate_0.25/net_best.pth", type=str,
                     help="model path")
-parser.add_argument("--dataset", default="Test/Set11_mat", type=str, help="dataset name, Default: Set5")
+parser.add_argument("--dataset", default="test/BSD68_mat", type=str, help="dataset name, Default: Set5")
 parser.add_argument('--block_size', default=32, type=int, help='CS block size')
 parser.add_argument('--sub_rate', default=0.25, type=float, help='sampling sub rate')
 

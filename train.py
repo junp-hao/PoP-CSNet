@@ -17,7 +17,7 @@ parser.add_argument('--block_size', default=32, type=int, help='CS block size')
 parser.add_argument('--pre_epochs', default=0, type=int, help='pre train epoch number')
 parser.add_argument('--num_epochs', default=300, type=int, help='train epoch number')
 parser.add_argument('--batchSize', default=8, type=int, help='train batch size')
-parser.add_argument('--sub_rate', default=0.1, type=float, help='sampling sub rate')
+parser.add_argument('--sub_rate', default=0.25, type=float, help='sampling sub rate')
 parser.add_argument('--loadEpoch', default=0, type=int, help='load epoch number')
 parser.add_argument('--generatorWeights', type=str, default='', help="path to CSNet weights (to continue training)")
 
